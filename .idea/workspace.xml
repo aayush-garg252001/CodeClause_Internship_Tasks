@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f7d01150-8143-4ba4-afca-27a94e70cba2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/ant.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Folder_Locker.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/.netbeans_automatic_build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/.netbeans_update_resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/Background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/ChangePassword$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/ChangePassword$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/ChangePassword$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/ChangePassword$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/ChangePassword.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/ChangePassword.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/Lock$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/Lock$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/Lock$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/Lock$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/Lock$5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/Lock$6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/Lock.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/Lock.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/Lock.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/Login$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/Login$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/Login$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/Login.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/Login.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/Password Reset.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/Unlock.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/close Jframe.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/folder_locker/Folder_Locker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/login.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/save.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nbproject/private/private.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nbproject/private/private.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2K6B2cugoAlx6s346xhANLRZ1vn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "I:/CodeClause/Folder_Locker"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f7d01150-8143-4ba4-afca-27a94e70cba2" name="Changes" comment="" />
+      <created>1673284952677</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673284952677</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
